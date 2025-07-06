@@ -1,6 +1,8 @@
 # taiwaneseBankruptcyPredictionProject
-Capstone Project analyzing bankruptcy risk using financial ratios
+Capstone Project analyzing bankruptcy risk using financial ratios.
 This project includes both the SAS code for the logistic regression and Decision Trees as well as the Python code for the Random Forests and Artificial Neural Networks (ANN).
-The paper is attached with all findings
-Presentation attached with project summary
-Dataset from UC Irvine Repository also included
+The paper is attached with all findings.
+Presentation attached with project summary.
+Dataset from UC Irvine Repository also included.
+
+Abstract: This analysis investigates the relationship between financial ratios and corporate bankruptcy risk across a population of firms, using a classification-based approach. Four research questions guided the analysis, focusing on the predictive strength of individual financial ratios, the classification potential of financial features, the effect of variable interactions, and the identification of early warning indicators. Logistic regression, decision trees, random forests, and artificial neural networks (ANNs) were applied to a Taiwanese corporate dataset. Key financial ratios such as operating gross margin, borrowing dependency, and return on equity were consistently associated with bankruptcy status, leading to the rejection of the null hypothesis for the primary research question. While formal hypotheses were not tested for model performance, exploratory classification modeling yielded strong results, with logistic regression achieving an AUC of 0.9421 and the ANN model demonstrated the highest recall. These findings suggest that interactions among financial variables enhance model sensitivity, and certain indicators may serve as early predictors of financial distress.
