@@ -174,11 +174,10 @@ Built in Python (Keras).
 ---
 
 ## 📁 Project Files
-- `final paper.docx` — full bankruptcy prediction analysis report  
-- `Predicting Corporate Bankruptcy.pptm` — presentation summarizing methods, findings, and business insights  
-- `TaiwanseBankruptcyPrediction.sas` — SAS code for logistic regression and decision tree models  
-- `TaiwanBankruptcyForestANN.py` — Python code for Random Forest and ANN models  
-- `taiwaneseData.csv` — Taiwanese corporate bankruptcy dataset (UCI source)  
+- `TaiwaneseBankruptcyPredictionAnalysis.docx` — full paper  
+- `BankruptcyPrediction.sas` — SAS modeling code  
+- `RandomForest_ANN.ipynb` — Python models  
+- Dataset from UCI ML Repository  
 
 ---
 
